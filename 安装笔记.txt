@@ -1,0 +1,38 @@
+pip install scrapy
+python -m pip install --upgrade pip
+pip install jupyter
+
+
+npm install -g @angular/cli
+
+npm i -g yarn
+
+1. cd E:\Dev\Java\cc-project\cc-front
+
+yarn install
+npm install -g typings
+set http_proxy=http://10.172.116.96:3129
+set https_proxy=http://10.172.116.96:3129
+npm install
+
+npm cache clean -f
+
+npm install
+
+
+---Run cc-front
+cd Dev\Java\cc-project\cc-front
+npm start
+
+--- install auto js environment
+npm i -g autojs-dev
+
+
+
+2018-12-19
+pip install pylint
+pip install selenium
+
+2018-12-29
+pip install splinter
+pip install httplib2
